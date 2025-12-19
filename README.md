@@ -32,7 +32,7 @@ I enjoy learning and building things that are new, productive, innovative, and c
 * ✔ Ask me about anything — I’m happy to help, only if the ball is in my court! 😉  
 * Outside tech:  
   📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
-* 📫 Reach out to me at: [bunnybugsy97@gmail.com](mailto:bunnybugsy97@gmail.com)
+* 📫 Reach out to me at: [contact](mailto:bunnybugsy97@gmail.com)
 
 __Check out my GitHub repository:__
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
