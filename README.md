@@ -67,6 +67,9 @@ __Check out my GitHub repository:__
 <br><br><br><br><br>
 </p>
 <hr>
+<div>
+	
+</div>
 <div align="center">
 	
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
